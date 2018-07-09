@@ -1,0 +1,2 @@
+# myalgotrade
+Something private
